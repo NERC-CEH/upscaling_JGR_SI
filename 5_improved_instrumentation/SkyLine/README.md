@@ -5,7 +5,8 @@ http://www.essoar.org/doi/10.1002/essoar.10509113.1
 This folder contains:
 BRATTLEBY_SKYLINE.xlsx
 
-Overview	Flux data measured using skyline2D automated flux chamber system, published in GCB Bioenergy (2018)10, 306–319, doi: 10.1111/gcbb.12491	
+Overview	Flux data measured using skyline2D automated flux chamber system, 
+published in GCB Bioenergy (2018)10, 306–319, doi: 10.1111/gcbb.12491	
 		
 Variable	Description	Units
 		
